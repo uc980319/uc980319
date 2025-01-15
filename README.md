@@ -4,10 +4,10 @@
   
 <br>
 
-# 🤺 Used 🤺
+# Using Languages
 [![un980319's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=un980319&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# 😊 DoYeon 😊
+# Commit
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=un980319&show_icons=true&theme=merko)
 
 
