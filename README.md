@@ -1,14 +1,14 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=BE81F7&height=150&section=header&text=un980319&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=BE81F7&height=150&section=header&text=uc980319&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
   
 <br>
 
 # Using Languages
-[![un980319's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=un980319&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![un980319's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uc980319&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Commit
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=un980319&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uc980319&show_icons=true&theme=merko)
 
 
 # Skills
